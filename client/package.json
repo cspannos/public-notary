@@ -5,6 +5,7 @@
   "dependencies": {
     "eth-block-tracker-es5": "^2.3.2",
     "ipfs-http-client": "^29.0.0",
+    "openzeppelin-solidity": "2.1.2",
     "react": "^16.7.0",
     "react-async": "^3.12.0",
     "react-bootstrap": "^0.32.4",
